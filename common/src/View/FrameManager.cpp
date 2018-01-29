@@ -26,12 +26,10 @@
 #include "View/MapDocumentCommandFacade.h"
 #include "View/MapFrame.h"
 
-#include <cassert>
-
 #include <wx/app.h>
 #include <wx/display.h>
 #include <wx/persist.h>
-#include <wx/persist/toplevel.h>
+#include <wx/persist/toplevel.h> // do not remove
 
 namespace TrenchBroom {
     namespace View {

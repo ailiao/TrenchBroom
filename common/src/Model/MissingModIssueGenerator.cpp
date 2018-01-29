@@ -20,16 +20,11 @@
 #include "MissingModIssueGenerator.h"
 
 #include "Model/AttributableNode.h"
-#include "Model/EntityAttributes.h"
 #include "Model/Issue.h"
 #include "Model/IssueQuickFix.h"
 #include "Model/Game.h"
 #include "Model/MapFacade.h"
 #include "Model/PushSelection.h"
-
-#include <algorithm>
-#include <cassert>
-#include <iterator>
 
 namespace TrenchBroom {
     namespace Model {

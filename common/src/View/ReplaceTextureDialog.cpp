@@ -34,9 +34,6 @@
 #include <wx/msgdlg.h>
 #include <wx/sizer.h>
 
-#include <algorithm>
-#include <iterator>
-
 namespace TrenchBroom {
     namespace View {
         ReplaceTextureDialog::ReplaceTextureDialog(wxWindow* parent, MapDocumentWPtr document, GLContextManager& contextManager) :

@@ -19,8 +19,6 @@
 
 #include "GameEngineConfig.h"
 
-#include "CollectionUtils.h"
-
 namespace TrenchBroom {
     namespace Model {
         GameEngineConfig::GameEngineConfig() {}

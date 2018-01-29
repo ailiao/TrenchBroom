@@ -19,12 +19,9 @@
 
 #include "MapReader.h"
 
-#include "CollectionUtils.h"
-#include "Logger.h"
 #include "Model/Brush.h"
 #include "Model/BrushFace.h"
 #include "Model/Entity.h"
-#include "Model/EntityAttributes.h"
 #include "Model/Group.h"
 #include "Model/Layer.h"
 #include "Model/ModelFactory.h"

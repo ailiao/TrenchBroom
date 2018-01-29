@@ -21,8 +21,6 @@
 
 #include <fstream>
 
-#include "Exceptions.h"
-
 namespace TrenchBroom {
     namespace Renderer {
         Shader::Shader(const IO::Path& path, const GLenum type) :

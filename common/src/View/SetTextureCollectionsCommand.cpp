@@ -20,8 +20,6 @@
 #include "SetTextureCollectionsCommand.h"
 #include "View/MapDocumentCommandFacade.h"
 
-#include <cassert>
-
 namespace TrenchBroom {
     namespace View {
         const Command::CommandType SetTextureCollectionsCommand::Type = Command::freeType();

@@ -20,10 +20,6 @@
 #include "Circle.h"
 
 #include "Renderer/RenderUtils.h"
-#include "Renderer/Vertex.h"
-#include "Renderer/VertexSpec.h"
-
-#include <cassert>
 
 namespace TrenchBroom {
     namespace Renderer {

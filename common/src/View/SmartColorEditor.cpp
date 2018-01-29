@@ -19,7 +19,6 @@
 
 #include "SmartColorEditor.h"
 
-#include "CollectionUtils.h"
 #include "Model/AttributableNode.h"
 #include "Model/Entity.h"
 #include "Model/EntityColor.h"
@@ -31,9 +30,7 @@
 #include "View/ViewConstants.h"
 
 #include <wx/clrpicker.h>
-#include <wx/panel.h>
 #include <wx/radiobut.h>
-#include <wx/sizer.h>
 #include <wx/stattext.h>
 #include <wx/wupdlock.h>
 

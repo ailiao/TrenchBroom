@@ -19,11 +19,8 @@
 
 #include "Node.h"
 
-#include "CollectionUtils.h"
 #include "Model/Issue.h"
 #include "Model/IssueGenerator.h"
-
-#include <cassert>
 
 namespace TrenchBroom {
     namespace Model {

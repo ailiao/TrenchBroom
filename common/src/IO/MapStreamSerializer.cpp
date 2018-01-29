@@ -18,7 +18,6 @@
  */
 
 #include "MapStreamSerializer.h"
-#include "StringUtils.h"
 #include "Model/BrushFace.h"
 
 namespace TrenchBroom {

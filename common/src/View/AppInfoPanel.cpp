@@ -24,7 +24,6 @@
 #include "View/GetVersion.h"
 #include "View/OpenClipboard.h"
 
-#include <wx/bitmap.h>
 #include <wx/clipbrd.h>
 #include <wx/sizer.h>
 #include <wx/statbmp.h>

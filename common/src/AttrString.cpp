@@ -19,10 +19,6 @@
 
 #include "AttrString.h"
 
-#include "Macros.h"
-
-#include <algorithm>
-
 
 namespace TrenchBroom {
     AttrString::LineFunc::~LineFunc() {}

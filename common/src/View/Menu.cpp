@@ -20,13 +20,9 @@
 #include "Menu.h"
 
 #include "PreferenceManager.h"
-#include "View/ActionContext.h"
 #include "View/CommandIds.h"
 
 #include <wx/menu.h>
-#include <wx/menuitem.h>
-
-#include <algorithm>
 
 namespace TrenchBroom {
     namespace View {

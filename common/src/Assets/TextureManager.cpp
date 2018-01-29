@@ -19,15 +19,10 @@
 
 #include "TextureManager.h"
 
-#include "Exceptions.h"
-#include "CollectionUtils.h"
 #include "Logger.h"
 #include "Assets/Texture.h"
 #include "Assets/TextureCollection.h"
 #include "IO/TextureLoader.h"
-
-#include <algorithm>
-#include <iterator>
 
 namespace TrenchBroom {
     namespace Assets {

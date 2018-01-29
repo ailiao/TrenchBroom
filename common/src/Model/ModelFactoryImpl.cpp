@@ -22,14 +22,11 @@
 #include "Model/Brush.h"
 #include "Model/BrushFace.h"
 #include "Model/Entity.h"
-#include "Model/Brush.h"
 #include "Model/Group.h"
 #include "Model/Layer.h"
 #include "Model/ParallelTexCoordSystem.h"
 #include "Model/ParaxialTexCoordSystem.h"
 #include "Model/World.h"
-
-#include <cassert>
 
 namespace TrenchBroom {
     namespace Model {

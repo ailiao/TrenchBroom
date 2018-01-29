@@ -19,22 +19,13 @@
 
 #include "SelectionTool.h"
 
-#include "CollectionUtils.h"
 #include "Preferences.h"
-#include "PreferenceManager.h"
 #include "Model/Brush.h"
 #include "Model/BrushFace.h"
 #include "Model/CollectSelectableNodesVisitor.h"
 #include "Model/EditorContext.h"
-#include "Model/Entity.h"
-#include "Model/Group.h"
 #include "Model/HitAdapter.h"
-#include "Model/HitQuery.h"
-#include "Model/Node.h"
-#include "Model/NodeVisitor.h"
-#include "Model/PickResult.h"
 #include "Renderer/RenderContext.h"
-#include "View/InputState.h"
 #include "View/Grid.h"
 #include "View/MapDocument.h"
 

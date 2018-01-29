@@ -20,8 +20,6 @@
 #include "EntityDefinitionFileCommand.h"
 #include "View/MapDocumentCommandFacade.h"
 
-#include <cassert>
-
 namespace TrenchBroom {
     namespace View {
         const Command::CommandType EntityDefinitionFileCommand::Type = Command::freeType();

@@ -19,7 +19,6 @@
 
 #include "MoveTexturesCommand.h"
 
-#include "Model/BrushFace.h"
 #include "View/MapDocumentCommandFacade.h"
 
 namespace TrenchBroom {

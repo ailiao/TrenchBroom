@@ -25,7 +25,6 @@
 #include "Renderer/RenderContext.h"
 #include "Renderer/Shaders.h"
 #include "Renderer/ShaderManager.h"
-#include "Renderer/Vbo.h"
 #include "View/MapDocument.h"
 
 namespace TrenchBroom {

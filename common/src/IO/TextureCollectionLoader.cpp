@@ -23,15 +23,9 @@
 #include "Assets/TextureCollection.h"
 #include "Assets/TextureManager.h"
 #include "IO/DiskIO.h"
-#include "IO/FileMatcher.h"
 #include "IO/FileSystem.h"
 #include "IO/TextureReader.h"
 #include "IO/WadFileSystem.h"
-
-#include <algorithm>
-#include <cassert>
-#include <iterator>
-#include <memory>
 
 namespace TrenchBroom {
     namespace IO {

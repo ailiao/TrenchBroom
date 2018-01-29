@@ -19,12 +19,8 @@
 
 #include "ObjSerializer.h"
 
-#include "CollectionUtils.h"
 #include "Model/Brush.h"
 #include "Model/BrushFace.h"
-#include "Model/BrushGeometry.h"
-
-#include <cassert>
 
 namespace TrenchBroom {
     namespace IO {

@@ -19,13 +19,8 @@
 
 #include "EntityDefinitionManager.h"
 
-#include "CollectionUtils.h"
-#include "StringUtils.h"
 #include "IO/EntityDefinitionLoader.h"
 #include "Model/AttributableNode.h"
-#include "Model/EntityAttributes.h"
-
-#include <cassert>
 
 namespace TrenchBroom {
     namespace Assets {

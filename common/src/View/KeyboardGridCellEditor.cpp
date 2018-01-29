@@ -21,7 +21,6 @@
 
 #include "View/KeyboardShortcut.h"
 #include "View/KeyboardShortcutEditor.h"
-#include "View/KeyboardShortcutEvent.h"
 
 #include <wx/msgdlg.h>
 

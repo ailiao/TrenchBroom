@@ -19,13 +19,9 @@
 
 #include "CommandProcessor.h"
 
-#include "Exceptions.h"
-#include "SetAny.h"
 #include "View/MapDocumentCommandFacade.h"
 
 #include <wx/time.h>
-
-#include <algorithm>
 
 namespace TrenchBroom {
     namespace View {

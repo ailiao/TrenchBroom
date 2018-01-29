@@ -19,10 +19,6 @@
 
 #include "CharArrayReader.h"
 
-#include <cassert>
-#include <cstring>
-#include <functional>
-
 namespace TrenchBroom {
     namespace IO {
         CharArrayReader::CharArrayReader(const char* begin, const char* end) :

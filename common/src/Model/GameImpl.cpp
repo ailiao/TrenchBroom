@@ -19,20 +19,16 @@
 
 #include "GameImpl.h"
 
-#include "Macros.h"
 #include "Assets/Palette.h"
 #include "IO/BrushFaceReader.h"
 #include "IO/Bsp29Parser.h"
 #include "IO/DefParser.h"
 #include "IO/DiskFileSystem.h"
 #include "IO/FgdParser.h"
-#include "IO/FileMatcher.h"
-#include "IO/FileSystem.h"
 #include "IO/IdMipTextureReader.h"
 #include "IO/IdPakFileSystem.h"
 #include "IO/IdWalTextureReader.h"
 #include "IO/IOUtils.h"
-#include "IO/MapParser.h"
 #include "IO/MdlParser.h"
 #include "IO/Md2Parser.h"
 #include "IO/NodeReader.h"
@@ -43,14 +39,8 @@
 #include "IO/SystemPaths.h"
 #include "IO/TextureLoader.h"
 #include "Model/AttributableNodeVariableStore.h"
-#include "Model/EntityAttributes.h"
-#include "Model/GameConfig.h"
 #include "Model/Tutorial.h"
 #include "Model/World.h"
-
-#include "Exceptions.h"
-
-#include <cstdio>
 
 namespace TrenchBroom {
     namespace Model {

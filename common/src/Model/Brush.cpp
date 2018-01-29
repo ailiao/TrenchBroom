@@ -19,10 +19,8 @@
 
 #include "Brush.h"
 
-#include "CollectionUtils.h"
 #include "Model/BrushContentTypeBuilder.h"
 #include "Model/BrushFace.h"
-#include "Model/BrushGeometry.h"
 #include "Model/BrushSnapshot.h"
 #include "Model/Entity.h"
 #include "Model/FindContainerVisitor.h"
@@ -30,7 +28,6 @@
 #include "Model/FindLayerVisitor.h"
 #include "Model/Group.h"
 #include "Model/IssueGenerator.h"
-#include "Model/NodeVisitor.h"
 #include "Model/PickResult.h"
 #include "Model/World.h"
 

@@ -22,18 +22,11 @@
 #include "Preferences.h"
 #include "Assets/Texture.h"
 #include "Model/BrushFace.h"
-#include "Model/BrushGeometry.h"
-#include "Renderer/Camera.h"
 #include "Renderer/EdgeRenderer.h"
-#include "Renderer/Renderable.h"
 #include "Renderer/RenderBatch.h"
 #include "Renderer/RenderContext.h"
 #include "Renderer/Shaders.h"
 #include "Renderer/ShaderManager.h"
-#include "Renderer/Vbo.h"
-#include "Renderer/VertexArray.h"
-#include "Renderer/VertexSpec.h"
-#include "View/GLAttribs.h"
 #include "View/Grid.h"
 #include "View/MapDocument.h"
 #include "View/UVCameraTool.h"
@@ -42,11 +35,6 @@
 #include "View/UVScaleTool.h"
 #include "View/UVShearTool.h"
 #include "View/UVOriginTool.h"
-
-#include <algorithm>
-#include <cassert>
-#include <iostream>
-#include <iterator>
 
 namespace TrenchBroom {
     namespace View {

@@ -26,8 +26,6 @@
 #include "Model/FindLayerVisitor.h"
 #include "Model/Group.h"
 #include "Model/Layer.h"
-#include "Model/Node.h"
-#include "Model/NodeVisitor.h"
 #include "Model/World.h"
 
 namespace TrenchBroom {

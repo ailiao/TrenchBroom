@@ -19,9 +19,6 @@
 
 #include "TextureBrowserView.h"
 
-#include "Renderer/GL.h"
-#include "PreferenceManager.h"
-#include "Preferences.h"
 #include "Assets/Texture.h"
 #include "Assets/TextureCollection.h"
 #include "Renderer/FontManager.h"

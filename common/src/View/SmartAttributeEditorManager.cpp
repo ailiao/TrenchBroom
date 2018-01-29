@@ -19,17 +19,13 @@
 
 #include "SmartAttributeEditorManager.h"
 
-#include "CollectionUtils.h"
 #include "View/MapDocument.h"
 #include "View/SmartChoiceEditor.h"
 #include "View/SmartChoiceEditorMatcher.h"
 #include "View/SmartColorEditor.h"
 #include "View/SmartDefaultAttributeEditor.h"
-#include "View/SmartAttributeEditor.h"
-#include "View/SmartAttributeEditorMatcher.h"
 #include "View/SmartSpawnflagsEditor.h"
 
-#include <wx/panel.h>
 #include <wx/sizer.h>
 
 namespace TrenchBroom {

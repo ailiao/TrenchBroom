@@ -19,14 +19,6 @@
 
 #include "DiskFileSystem.h"
 
-#include "Exceptions.h"
-#include "StringUtils.h"
-
-#include "IO/DiskIO.h"
-
-#include <cassert>
-#include <iostream>
-
 namespace TrenchBroom {
     namespace IO {
         DiskFileSystem::DiskFileSystem(const Path& root, const bool ensureExists) :

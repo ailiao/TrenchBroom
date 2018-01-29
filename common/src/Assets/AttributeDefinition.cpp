@@ -20,7 +20,6 @@
 #include "AttributeDefinition.h"
 
 #include "CollectionUtils.h"
-#include "Macros.h"
 
 namespace TrenchBroom {
     namespace Assets {

@@ -19,10 +19,7 @@
 
 #include "ViewShortcut.h"
 
-#include "StringUtils.h"
-#include "Preference.h"
 #include "PreferenceManager.h"
-#include "View/ActionContext.h"
 
 namespace TrenchBroom {
     namespace View {

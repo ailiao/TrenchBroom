@@ -25,26 +25,17 @@
 #include "Assets/EntityDefinitionManager.h"
 #include "Model/Brush.h"
 #include "Model/BrushFace.h"
-#include "Model/BrushGeometry.h"
 #include "Model/CollectMatchingNodesVisitor.h"
 #include "Model/EditorContext.h"
-#include "Model/Entity.h"
-#include "Model/EntityAttributes.h"
 #include "Model/FindGroupVisitor.h"
 #include "Model/FindLayerVisitor.h"
-#include "Model/Group.h"
-#include "Model/Hit.h"
 #include "Model/HitAdapter.h"
-#include "Model/HitQuery.h"
-#include "Model/Layer.h"
 #include "Model/PointFile.h"
 #include "Model/PushSelection.h"
-#include "Model/World.h"
 #include "Renderer/Camera.h"
 #include "Renderer/Compass.h"
 #include "Renderer/FontDescriptor.h"
 #include "Renderer/MapRenderer.h"
-#include "Renderer/RenderBatch.h"
 #include "Renderer/RenderService.h"
 #include "View/ActionManager.h"
 #include "View/Animation.h"
@@ -62,9 +53,6 @@
 
 #include <wx/frame.h>
 #include <wx/menu.h>
-
-#include <algorithm>
-#include <iterator>
 
 namespace TrenchBroom {
     namespace View {

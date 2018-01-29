@@ -20,7 +20,6 @@
 #include "EntityDefinitionClassInfo.h"
 
 #include "Assets/AttributeDefinition.h"
-#include "Model/EntityAttributes.h"
 
 namespace TrenchBroom {
     namespace IO {

@@ -19,8 +19,6 @@
 
 #include "TexturedIndexArrayBuilder.h"
 
-#include <algorithm>
-
 namespace TrenchBroom {
     namespace Renderer {
         TexturedIndexArrayBuilder::TexturedIndexArrayBuilder(const TexturedIndexArrayMap::Size& size) :

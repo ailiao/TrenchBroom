@@ -18,9 +18,7 @@
  */
 
 #include "MapFileSerializer.h"
-#include "Exceptions.h"
 #include "IO/DiskFileSystem.h"
-#include "IO/Path.h"
 #include "Model/BrushFace.h"
 
 namespace TrenchBroom {

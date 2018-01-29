@@ -19,20 +19,16 @@
 
 #include "GameEngineDialog.h"
 
-#include "IO/Path.h"
 #include "Model/GameFactory.h"
 #include "View/BorderLine.h"
 #include "View/CurrentGameIndicator.h"
 #include "View/GameEngineProfileManager.h"
-#include "View/ViewConstants.h"
 #include "View/wxUtils.h"
 
 #include <wx/button.h>
 #include <wx/settings.h>
 #include <wx/simplebook.h>
 #include <wx/sizer.h>
-#include <wx/statbmp.h>
-#include <wx/stattext.h>
 #include <wx/textctrl.h>
 
 namespace TrenchBroom {

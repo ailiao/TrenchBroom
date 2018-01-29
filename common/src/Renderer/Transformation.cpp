@@ -21,8 +21,6 @@
 
 #include "Renderer/GL.h"
 
-#include <cassert>
-
 namespace TrenchBroom {
     namespace Renderer {
         Transformation::Transformation(const Mat4x4f& projection, const Mat4x4f& view, const Mat4x4f& model) {

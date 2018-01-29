@@ -19,12 +19,8 @@
 
 #include "Model/Issue.h"
 
-#include "CollectionUtils.h"
 #include "Model/CollectSelectableNodesVisitor.h"
 #include "Model/EditorContext.h"
-#include "Model/Node.h"
-
-#include <cassert>
 
 namespace TrenchBroom {
     namespace Model {

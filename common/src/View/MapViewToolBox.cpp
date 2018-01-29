@@ -25,7 +25,6 @@
 #include "View/CreateSimpleBrushTool.h"
 #include "View/EdgeTool.h"
 #include "View/FaceTool.h"
-#include "View/MapDocument.h"
 #include "View/MoveObjectsTool.h"
 #include "View/ResizeBrushesTool.h"
 #include "View/RotateObjectsTool.h"

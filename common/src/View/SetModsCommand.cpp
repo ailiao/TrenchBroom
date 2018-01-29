@@ -21,8 +21,6 @@
 
 #include "View/MapDocumentCommandFacade.h"
 
-#include <cassert>
-
 namespace TrenchBroom {
     namespace View {
         const Command::CommandType SetModsCommand::Type = Command::freeType();

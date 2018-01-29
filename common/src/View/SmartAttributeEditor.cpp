@@ -19,7 +19,6 @@
 
 #include "SmartAttributeEditor.h"
 
-#include "Notifier.h"
 #include "Model/Object.h"
 #include "View/MapDocument.h"
 

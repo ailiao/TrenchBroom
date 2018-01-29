@@ -19,14 +19,11 @@
 
 #include "EmptyGroupIssueGenerator.h"
 
-#include "StringUtils.h"
 #include "Assets/EntityDefinition.h"
 #include "Model/Group.h"
 #include "Model/Issue.h"
 #include "Model/IssueQuickFix.h"
 #include "Model/MapFacade.h"
-
-#include <cassert>
 
 namespace TrenchBroom {
     namespace Model {

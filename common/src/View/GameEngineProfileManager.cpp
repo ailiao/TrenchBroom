@@ -21,7 +21,6 @@
 
 #include "IO/Path.h"
 #include "Model/GameEngineConfig.h"
-#include "Model/GameEngineProfile.h"
 #include "View/BorderLine.h"
 #include "View/GameEngineProfileListBox.h"
 #include "View/GameEngineProfileEditor.h"

@@ -19,8 +19,6 @@
 
 #include "KeyboardPreferencePane.h"
 
-#include "Macros.h"
-#include "Preferences.h"
 #include "View/ActionManager.h"
 #include "View/BorderLine.h"
 #include "View/KeyboardShortcutGridTable.h"
@@ -29,10 +27,6 @@
 #include <wx/msgdlg.h>
 #include <wx/settings.h>
 #include <wx/sizer.h>
-#include <wx/statbox.h>
-#include <wx/stattext.h>
-
-#include <cassert>
 
 namespace TrenchBroom {
     namespace View {

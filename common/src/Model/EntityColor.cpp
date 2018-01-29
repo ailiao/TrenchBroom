@@ -24,8 +24,6 @@
 #include "Model/NodeVisitor.h"
 #include "Model/World.h"
 
-#include <cassert>
-
 namespace TrenchBroom {
     namespace Model {
         class DetectColorRangeVisitor : public ConstNodeVisitor {

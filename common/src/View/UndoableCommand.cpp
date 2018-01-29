@@ -19,8 +19,6 @@
 
 #include "UndoableCommand.h"
 
-#include "Exceptions.h"
-
 namespace TrenchBroom {
     namespace View {
         UndoableCommand::UndoableCommand(const CommandType type, const String& name) :

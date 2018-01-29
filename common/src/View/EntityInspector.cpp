@@ -19,7 +19,6 @@
 
 #include "EntityInspector.h"
 
-#include "StringUtils.h"
 #include "View/BorderLine.h"
 #include "View/CollapsibleTitledPanel.h"
 #include "View/EntityBrowser.h"
@@ -27,10 +26,8 @@
 #include "View/EntityAttributeEditor.h"
 #include "View/SplitterWindow2.h"
 #include "View/TitledPanel.h"
-#include "View/ViewConstants.h"
 #include "View/MapDocument.h"
 
-#include <wx/event.h>
 #include <wx/notebook.h>
 #include <wx/persist.h>
 #include <wx/sizer.h>

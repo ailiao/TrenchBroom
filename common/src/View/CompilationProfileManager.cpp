@@ -20,7 +20,6 @@
 #include "CompilationProfileManager.h"
 
 #include "Model/CompilationConfig.h"
-#include "Model/CompilationProfile.h"
 #include "View/BorderLine.h"
 #include "View/CompilationProfileListBox.h"
 #include "View/CompilationProfileEditor.h"

@@ -20,7 +20,6 @@
 #include "CompilationProfileListBox.h"
 
 #include "Model/CompilationConfig.h"
-#include "Model/CompilationProfile.h"
 #include "View/wxUtils.h"
 
 #include <wx/settings.h>

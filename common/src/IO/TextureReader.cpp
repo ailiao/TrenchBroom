@@ -21,8 +21,6 @@
 
 #include "IO/FileSystem.h"
 
-#include <algorithm>
-
 namespace TrenchBroom {
     namespace IO {
         TextureReader::NameStrategy::NameStrategy() {}

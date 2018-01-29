@@ -23,18 +23,12 @@
 #include "Preferences.h"
 #include "Model/Brush.h"
 #include "Model/BrushFace.h"
-#include "Model/BrushGeometry.h"
 #include "Model/HitAdapter.h"
-#include "Model/HitQuery.h"
-#include "Model/PickResult.h"
 #include "Renderer/Camera.h"
 #include "Renderer/RenderService.h"
 #include "View/CreateSimpleBrushTool.h"
 #include "View/Grid.h"
-#include "View/InputState.h"
 #include "View/MapDocument.h"
-
-#include <cassert>
 
 namespace TrenchBroom {
     namespace View {

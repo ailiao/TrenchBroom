@@ -20,9 +20,7 @@
 #include "CameraLinkHelper.h"
 
 #include "CollectionUtils.h"
-#include "Macros.h"
 #include "TrenchBroom.h"
-#include "VecMath.h"
 #include "SetAny.h"
 #include "PreferenceManager.h"
 #include "Preferences.h"

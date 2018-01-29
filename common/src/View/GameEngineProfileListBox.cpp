@@ -20,7 +20,6 @@
 #include "GameEngineProfileListBox.h"
 
 #include "Model/GameEngineConfig.h"
-#include "Model/GameEngineProfile.h"
 #include "View/wxUtils.h"
 
 #include <wx/settings.h>

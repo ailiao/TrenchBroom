@@ -18,7 +18,6 @@
  */
 
 #include "IndexRangeMap.h"
-#include "CollectionUtils.h"
 
 namespace TrenchBroom {
     namespace Renderer {

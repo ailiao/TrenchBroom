@@ -31,9 +31,7 @@
 #include <wx/button.h>
 #include <wx/filedlg.h>
 #include <wx/gbsizer.h>
-#include <wx/sizer.h>
 #include <wx/stattext.h>
-#include <wx/textctrl.h>
 
 namespace TrenchBroom {
     namespace View {

@@ -21,26 +21,19 @@
 
 #include "Model/Brush.h"
 #include "Model/CollectSelectableNodesVisitor.h"
-#include "Model/Entity.h"
 #include "Model/FindGroupVisitor.h"
 #include "Model/FindLayerVisitor.h"
-#include "Model/Group.h"
-#include "Model/Layer.h"
-#include "Model/World.h"
 #include "View/BorderLine.h"
 #include "View/LayerListBox.h"
 #include "View/MapDocument.h"
 #include "View/ViewConstants.h"
 #include "View/wxUtils.h"
 
-#include <wx/bmpbuttn.h>
 #include <wx/menu.h>
 #include <wx/msgdlg.h>
 #include <wx/settings.h>
 #include <wx/sizer.h>
 #include <wx/textdlg.h>
-
-#include <set>
 
 namespace TrenchBroom {
     namespace View {

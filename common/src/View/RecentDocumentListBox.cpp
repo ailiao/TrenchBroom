@@ -21,13 +21,10 @@
 
 #include "StringUtils.h"
 #include "TrenchBroomApp.h"
-#include "IO/Path.h"
 #include "IO/ResourceUtils.h"
 #include "Model/GameConfig.h"
 #include "Model/GameFactory.h"
 #include "View/RecentDocumentSelectedCommand.h"
-
-#include <cassert>
 
 namespace TrenchBroom {
     namespace View {

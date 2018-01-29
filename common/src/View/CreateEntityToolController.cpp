@@ -20,9 +20,6 @@
 #include "CreateEntityToolController.h"
 
 #include "View/CreateEntityTool.h"
-#include "View/InputState.h"
-
-#include <cassert>
 
 namespace TrenchBroom {
     namespace View {

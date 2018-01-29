@@ -19,9 +19,6 @@
 
 #include "MappedFile.h"
 
-#include "Exceptions.h"
-#include "IO/Path.h"
-
 #ifdef _WIN32
 #include <Windows.h>
 #include <fstream>

@@ -22,7 +22,6 @@
 #include "CollectionUtils.h"
 #include "Notifier.h"
 #include "Assets/EntityDefinitionFileSpec.h"
-#include "IO/Path.h"
 #include "Model/Game.h"
 #include "Model/GameFactory.h"
 #include "View/BorderLine.h"
@@ -38,8 +37,6 @@
 #include <wx/settings.h>
 #include <wx/sizer.h>
 #include <wx/stattext.h>
-
-#include <cassert>
 
 namespace TrenchBroom {
     namespace View {

@@ -19,8 +19,6 @@
 
 #include "SnapBrushVerticesCommand.h"
 
-#include "Model/Brush.h"
-#include "Model/BrushGeometry.h"
 #include "Model/Snapshot.h"
 #include "View/MapDocument.h"
 #include "View/MapDocumentCommandFacade.h"

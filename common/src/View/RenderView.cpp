@@ -18,20 +18,16 @@
  */
 
 #include "RenderView.h"
-#include "Exceptions.h"
 #include "PreferenceManager.h"
 #include "Preferences.h"
 #include "Renderer/Transformation.h"
 #include "Renderer/VertexArray.h"
-#include "Renderer/VertexSpec.h"
 #include "View/GLContextManager.h"
 #include "View/wxUtils.h"
 #include "TrenchBroomApp.h"
 
 #include <wx/dcclient.h>
 #include <wx/settings.h>
-
-#include <iostream>
 
 namespace TrenchBroom {
     namespace View {

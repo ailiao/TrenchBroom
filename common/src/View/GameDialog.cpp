@@ -34,8 +34,6 @@
 #include <wx/sizer.h>
 #include <wx/stattext.h>
 
-#include <cassert>
-
 namespace TrenchBroom {
     namespace View {
         GameDialog::~GameDialog() {

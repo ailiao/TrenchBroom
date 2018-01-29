@@ -19,11 +19,8 @@
 
 #include "EntityModelRenderer.h"
 
-#include "TrenchBroom.h"
 #include "PreferenceManager.h"
 #include "Preferences.h"
-#include "VecMath.h"
-#include "CollectionUtils.h"
 #include "Assets/EntityModel.h"
 #include "Assets/EntityModelManager.h"
 #include "Model/EditorContext.h"
@@ -32,7 +29,6 @@
 #include "Renderer/Shaders.h"
 #include "Renderer/ShaderManager.h"
 #include "Renderer/TexturedIndexRangeRenderer.h"
-#include "Renderer/Transformation.h"
 
 namespace TrenchBroom {
     namespace Renderer {

@@ -20,20 +20,12 @@
 #include "CameraTool3D.h"
 
 #include "Preferences.h"
-#include "PreferenceManager.h"
 #include "Model/Brush.h"
 #include "Model/Entity.h"
 #include "Model/Group.h"
-#include "Model/Hit.h"
 #include "Model/HitAdapter.h"
-#include "Model/HitQuery.h"
-#include "Model/PickResult.h"
-#include "View/InputState.h"
 #include "View/MapDocument.h"
 #include "Renderer/PerspectiveCamera.h"
-
-#include <iostream>
-#include <algorithm>
 
 namespace TrenchBroom {
     namespace View {

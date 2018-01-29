@@ -19,14 +19,11 @@
 
 #include "Bsp29Model.h"
 
-#include "CollectionUtils.h"
 #include "Assets/Texture.h"
 #include "Assets/TextureCollection.h"
 #include "Renderer/TexturedIndexRangeMap.h"
 #include "Renderer/TexturedIndexRangeMapBuilder.h"
 #include "Renderer/TexturedIndexRangeRenderer.h"
-
-#include <cassert>
 
 namespace TrenchBroom {
     namespace Assets {

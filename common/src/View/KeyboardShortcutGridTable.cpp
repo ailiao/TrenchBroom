@@ -21,7 +21,6 @@
 
 #include "View/ActionManager.h"
 #include "View/KeyboardGridCellEditor.h"
-#include "View/KeyboardShortcutEntry.h"
 #include "View/Menu.h"
 
 namespace TrenchBroom {

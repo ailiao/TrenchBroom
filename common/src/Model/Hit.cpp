@@ -20,9 +20,6 @@
 #include "Hit.h"
 #include "HitFilter.h"
 
-#include <algorithm>
-#include <limits>
-
 namespace TrenchBroom {
     namespace Model {
         const Hit::HitType Hit::NoType = 0;

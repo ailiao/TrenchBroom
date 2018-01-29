@@ -20,9 +20,7 @@
 #include "IssueBrowserView.h"
 
 #include "Model/CollectMatchingIssuesVisitor.h"
-#include "Model/Issue.h"
 #include "Model/IssueQuickFix.h"
-#include "Model/World.h"
 #include "View/MapDocument.h"
 #include "View/wxUtils.h"
 

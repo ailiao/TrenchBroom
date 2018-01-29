@@ -24,7 +24,6 @@
 #include "View/LayerEditor.h"
 #include "View/ModEditor.h"
 #include "View/TitledPanel.h"
-#include "View/ViewConstants.h"
 
 #include <wx/notebook.h>
 #include <wx/settings.h>

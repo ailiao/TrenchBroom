@@ -26,9 +26,7 @@
 #include "IO/HlMipTextureReader.h"
 #include "IO/IdMipTextureReader.h"
 #include "IO/IdWalTextureReader.h"
-#include "IO/Path.h"
 #include "IO/TextureCollectionLoader.h"
-#include "Model/GameConfig.h"
 
 namespace TrenchBroom {
     namespace IO {

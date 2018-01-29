@@ -21,10 +21,8 @@
 
 #include "Notifier.h"
 #include "Preferences.h"
-#include "PreferenceManager.h"
 #include "Model/Entity.h"
 #include "Model/Game.h"
-#include "Model/Object.h"
 #include "View/BorderLine.h"
 #include "View/MapDocument.h"
 #include "View/TitledPanel.h"
@@ -36,12 +34,7 @@
 #include <wx/gbsizer.h>
 #include <wx/listbox.h>
 #include <wx/settings.h>
-#include <wx/sizer.h>
 #include <wx/srchctrl.h>
-#include <wx/statbox.h>
-#include <wx/stattext.h>
-
-#include <cassert>
 
 namespace TrenchBroom {
     namespace View {

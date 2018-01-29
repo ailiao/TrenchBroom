@@ -19,9 +19,6 @@
 
 #include "VertexCommand.h"
 
-#include "Model/Brush.h"
-#include "Model/BrushFace.h"
-#include "Model/BrushGeometry.h"
 #include "Model/Snapshot.h"
 #include "View/MapDocumentCommandFacade.h"
 #include "View/VertexTool.h"

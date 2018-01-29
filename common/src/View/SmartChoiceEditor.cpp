@@ -29,8 +29,6 @@
 #include <wx/stattext.h>
 #include <wx/wupdlock.h>
 
-#include <cassert>
-
 namespace TrenchBroom {
     namespace View {
         SmartChoiceEditor::SmartChoiceEditor(View::MapDocumentWPtr document) :

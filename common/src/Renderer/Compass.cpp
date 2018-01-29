@@ -19,7 +19,6 @@
 
 #include "Compass.h"
 
-#include "CollectionUtils.h"
 #include "PreferenceManager.h"
 #include "Preferences.h"
 #include "Renderer/Camera.h"
@@ -28,14 +27,6 @@
 #include "Renderer/RenderUtils.h"
 #include "Renderer/Shaders.h"
 #include "Renderer/ShaderManager.h"
-#include "Renderer/Shader.h"
-#include "Renderer/Transformation.h"
-#include "Renderer/IndexRangeMapBuilder.h"
-#include "Renderer/Vertex.h"
-#include "Renderer/VertexArray.h"
-#include "Renderer/VertexSpec.h"
-
-#include <cassert>
 
 namespace TrenchBroom {
     namespace Renderer {

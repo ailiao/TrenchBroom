@@ -19,10 +19,6 @@
 
 #include "MultiMapView.h"
 
-#include "View/MapView.h"
-
-#include <cassert>
-
 namespace TrenchBroom {
     namespace View {
         MultiMapView::MultiMapView(wxWindow* parent) :

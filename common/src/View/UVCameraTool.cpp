@@ -19,8 +19,6 @@
 
 #include "UVCameraTool.h"
 
-#include "VecMath.h"
-#include "View/InputState.h"
 #include "Renderer/OrthographicCamera.h"
 
 namespace TrenchBroom {

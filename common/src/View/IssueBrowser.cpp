@@ -19,7 +19,6 @@
 
 #include "IssueBrowser.h"
 
-#include "Macros.h"
 #include "Model/Issue.h"
 #include "Model/IssueGenerator.h"
 #include "Model/World.h"
@@ -33,8 +32,6 @@
 #include <wx/menu.h>
 #include <wx/simplebook.h>
 #include <wx/sizer.h>
-
-#include <cassert>
 
 namespace TrenchBroom {
     namespace View {

@@ -19,8 +19,6 @@
 
 #include "PickResult.h"
 
-#include "Model/CompareHits.h"
-
 namespace TrenchBroom {
     namespace Model {
         class PickResult::CompareWrapper {

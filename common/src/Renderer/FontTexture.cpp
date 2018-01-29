@@ -19,10 +19,6 @@
 
 #include "FontTexture.h"
 
-#include <cassert>
-#include <cstring>
-#include <memory>
-
 namespace TrenchBroom {
     namespace Renderer {
         FontTexture::FontTexture() :

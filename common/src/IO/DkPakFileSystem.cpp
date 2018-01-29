@@ -19,12 +19,8 @@
 
 #include "DkPakFileSystem.h"
 
-#include "CollectionUtils.h"
 #include "IO/CharArrayReader.h"
-#include "IO/DiskFileSystem.h"
 #include "IO/IOUtils.h"
-
-#include <cassert>
 
 namespace TrenchBroom {
     namespace IO {

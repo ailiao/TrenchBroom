@@ -20,12 +20,9 @@
 #include "NonIntegerVerticesIssueGenerator.h"
 
 #include "Model/Brush.h"
-#include "Model/BrushGeometry.h"
 #include "Model/Issue.h"
 #include "Model/IssueQuickFix.h"
 #include "Model/MapFacade.h"
-
-#include <cassert>
 
 namespace TrenchBroom {
     namespace Model {

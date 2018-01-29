@@ -20,22 +20,16 @@
 #include "ResizeBrushesTool.h"
 
 #include "Preferences.h"
-#include "PreferenceManager.h"
 #include "Model/Brush.h"
 #include "Model/BrushFace.h"
-#include "Model/BrushGeometry.h"
 #include "Model/CollectMatchingBrushFacesVisitor.h"
 #include "Model/FindMatchingBrushFaceVisitor.h"
 #include "Model/HitAdapter.h"
 #include "Model/HitQuery.h"
-#include "Model/NodeVisitor.h"
 #include "Model/PickResult.h"
 #include "Renderer/Camera.h"
 #include "View/Grid.h"
 #include "View/MapDocument.h"
-
-#include <algorithm>
-#include <iterator>
 
 namespace TrenchBroom {
     namespace View {

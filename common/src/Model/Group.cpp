@@ -19,7 +19,6 @@
 
 #include "Group.h"
 
-#include "Hit.h"
 #include "Model/BoundsContainsNodeVisitor.h"
 #include "Model/BoundsIntersectsNodeVisitor.h"
 #include "Model/Brush.h"
@@ -31,7 +30,6 @@
 #include "Model/GroupSnapshot.h"
 #include "Model/IntersectNodeWithRayVisitor.h"
 #include "Model/IssueGenerator.h"
-#include "Model/NodeVisitor.h"
 #include "Model/PickResult.h"
 #include "Model/TransformObjectVisitor.h"
 

@@ -19,12 +19,9 @@
 
 #include "Autosaver.h"
 
-#include "StringUtils.h"
 #include "SetAny.h"
 #include "IO/DiskFileSystem.h"
 #include "View/MapDocument.h"
-
-#include <cassert>
 
 namespace TrenchBroom {
     namespace View {

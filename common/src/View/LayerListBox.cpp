@@ -26,11 +26,9 @@
 #include "View/ViewConstants.h"
 #include "View/wxUtils.h"
 
-#include <wx/scrolwin.h>
 #include <wx/settings.h>
 #include <wx/sizer.h>
 #include <wx/stattext.h>
-#include <wx/tglbtn.h>
 #include <wx/wupdlock.h>
 
 wxDEFINE_EVENT(LAYER_SELECTED_EVENT, TrenchBroom::View::LayerCommand);

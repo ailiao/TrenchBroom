@@ -19,19 +19,13 @@
 
 #include "EntityRenderer.h"
 
-#include "TrenchBroom.h"
-#include "VecMath.h"
-#include "CollectionUtils.h"
 #include "Preferences.h"
-#include "PreferenceManager.h"
 #include "Assets/EntityDefinition.h"
 #include "Assets/EntityModelManager.h"
-#include "Assets/ModelDefinition.h"
 #include "Assets/EntityModel.h"
 #include "Model/EditorContext.h"
 #include "Model/Entity.h"
 #include "Renderer/Camera.h"
-#include "Renderer/IndexRangeMap.h"
 #include "Renderer/RenderBatch.h"
 #include "Renderer/RenderContext.h"
 #include "Renderer/RenderService.h"
@@ -39,7 +33,6 @@
 #include "Renderer/ShaderManager.h"
 #include "Renderer/Shaders.h"
 #include "Renderer/TextAnchor.h"
-#include "Renderer/VertexSpec.h"
 
 namespace TrenchBroom {
     namespace Renderer {

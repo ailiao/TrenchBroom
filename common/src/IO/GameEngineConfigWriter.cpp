@@ -20,7 +20,6 @@
 #include "GameEngineConfigWriter.h"
 
 #include "Model/GameEngineConfig.h"
-#include "Model/GameEngineProfile.h"
 
 namespace TrenchBroom {
     namespace IO {

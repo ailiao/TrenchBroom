@@ -19,14 +19,10 @@
 
 #include "MdlParser.h"
 
-#include "CollectionUtils.h"
-#include "Macros.h"
 #include "Assets/Texture.h"
 #include "Assets/MdlModel.h"
 #include "Assets/Palette.h"
 #include "IO/IOUtils.h"
-
-#include <cassert>
 
 namespace TrenchBroom {
     namespace IO {

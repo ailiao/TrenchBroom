@@ -21,7 +21,6 @@
 
 #include "PreferenceManager.h"
 #include "Preferences.h"
-#include "IO/Path.h"
 #include "Model/Game.h"
 #include "Model/GameFactory.h"
 #include "View/BorderLine.h"
@@ -34,11 +33,8 @@
 #include <wx/button.h>
 #include <wx/dirdlg.h>
 #include <wx/gbsizer.h>
-#include <wx/listbox.h>
 #include <wx/simplebook.h>
-#include <wx/sizer.h>
 #include <wx/settings.h>
-#include <wx/stattext.h>
 
 namespace TrenchBroom {
     namespace View {

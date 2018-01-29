@@ -19,7 +19,6 @@
 
 #include "ELExceptions.h"
 
-#include "EL/Types.h"
 #include "EL/Value.h"
 
 namespace TrenchBroom {

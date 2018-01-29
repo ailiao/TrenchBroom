@@ -21,7 +21,6 @@
 
 #include "IO/Path.h"
 
-#include <cassert>
 #include <fstream>
 
 namespace TrenchBroom {

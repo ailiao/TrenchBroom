@@ -19,16 +19,11 @@
 
 #include "CollectionUtils.h"
 #include "ToolBox.h"
-#include "SetAny.h"
 #include "View/InputState.h"
 #include "View/Tool.h"
 #include "View/ToolController.h"
-#include "View/ToolChain.h"
 
 #include <wx/window.h>
-#include <wx/event.h>
-
-#include <cassert>
 
 namespace TrenchBroom {
     namespace View {

@@ -19,28 +19,21 @@
 
 #include "GameFactory.h"
 
-#include "CollectionUtils.h"
 #include "PreferenceManager.h"
 #include "Preferences.h"
 #include "IO/CompilationConfigParser.h"
 #include "IO/CompilationConfigWriter.h"
 #include "IO/DiskFileSystem.h"
-#include "IO/FileMatcher.h"
-#include "IO/FileSystem.h"
 #include "IO/GameConfigParser.h"
 #include "IO/GameEngineConfigParser.h"
 #include "IO/GameEngineConfigWriter.h"
 #include "IO/IOUtils.h"
-#include "IO/Path.h"
 #include "IO/SystemPaths.h"
 #include "Model/Game.h"
 #include "Model/GameImpl.h"
 #include "Model/Tutorial.h"
 
-#include "Exceptions.h"
 #include "RecoverableExceptions.h"
-
-#include <cassert>
 
 namespace TrenchBroom {
     namespace Model {

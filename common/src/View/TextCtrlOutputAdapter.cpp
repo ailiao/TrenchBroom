@@ -22,8 +22,6 @@
 #include <wx/textctrl.h>
 #include <wx/wupdlock.h>
 
-#include <cassert>
-
 namespace TrenchBroom {
     namespace View {
         TextCtrlOutputAdapter::TextCtrlOutputAdapter(wxTextCtrl* textCtrl) :

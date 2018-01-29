@@ -19,9 +19,6 @@
 
 #include "CompilationProfile.h"
 
-#include "CollectionUtils.h"
-#include "Model/CompilationTask.h"
-
 namespace TrenchBroom {
     namespace Model {
         CompilationProfile::CompilationProfile(const String& name, const String& workDirSpec) :

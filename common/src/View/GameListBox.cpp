@@ -19,14 +19,12 @@
 
 #include "GameListBox.h"
 
-#include "StringUtils.h"
 #include "IO/Path.h"
 #include "IO/ResourceUtils.h"
 #include "Model/GameConfig.h"
 #include "Model/GameFactory.h"
 #include "View/GameSelectionCommand.h"
 
-#include <cassert>
 #include <wx/log.h>
 
 namespace TrenchBroom {

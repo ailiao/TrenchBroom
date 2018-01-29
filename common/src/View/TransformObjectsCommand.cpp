@@ -19,7 +19,6 @@
 
 #include "TransformObjectsCommand.h"
 
-#include "Macros.h"
 #include "Model/Snapshot.h"
 #include "View/MapDocument.h"
 #include "View/MapDocumentCommandFacade.h"

@@ -20,7 +20,6 @@
 #include "LegacyModelDefinitionParser.h"
 
 #include "Assets/ModelDefinition.h"
-#include "StringUtils.h"
 #include "EL.h"
 
 namespace TrenchBroom {

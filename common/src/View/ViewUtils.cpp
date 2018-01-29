@@ -19,11 +19,9 @@
 
 #include "ViewUtils.h"
 
-#include "Exceptions.h"
 #include "Logger.h"
 #include "Assets/EntityModelManager.h"
 #include "Assets/EntityDefinitionFileSpec.h"
-#include "Assets/ModelDefinition.h"
 #include "Model/Game.h"
 #include "Model/GameFactory.h"
 #include "View/ChoosePathTypeDialog.h"

@@ -22,11 +22,8 @@
 #include "View/ColorTableSelectedCommand.h"
 
 #include <wx/dcclient.h>
-#include <wx/panel.h>
 #include <wx/settings.h>
-#include <wx/sizer.h>
 
-#include <algorithm>
 #include <cassert>
 
 namespace TrenchBroom {

@@ -22,9 +22,6 @@ along with TrenchBroom. If not, see <http://www.gnu.org/licenses/>.
 #include "TrenchBroomStackWalker.h"
 #include "TrenchBroomApp.h"
 
-#include <sstream>
-#include <string>
-
 void TrenchBroom::ensureFailed(const char *file, const int line, const char *condition, const std::string& message) {
     std::stringstream reason;
     reason << file << ":" << line << ": Condition '" << condition << "' failed: " << message;

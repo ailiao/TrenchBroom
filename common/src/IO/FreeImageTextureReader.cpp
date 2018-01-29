@@ -21,12 +21,8 @@
 
 #include "Color.h"
 #include "FreeImage.h"
-#include "StringUtils.h"
 #include "Assets/Texture.h"
 #include "IO/CharArrayReader.h"
-#include "IO/Path.h"
-
-#include <cstring>
 
 namespace TrenchBroom {
     namespace IO {

@@ -19,9 +19,6 @@
 
 #include "KeyboardShortcutEntry.h"
 
-#include "View/ActionContext.h"
-#include "View/KeyboardShortcut.h"
-
 namespace TrenchBroom {
     namespace View {
         KeyboardShortcutEntry::KeyboardShortcutEntry() : m_hasConflicts(false) {}

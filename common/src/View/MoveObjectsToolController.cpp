@@ -23,12 +23,7 @@
 #include "Model/Entity.h"
 #include "Model/Group.h"
 #include "Model/HitAdapter.h"
-#include "Model/HitQuery.h"
-#include "Model/Node.h"
-#include "Renderer/RenderContext.h"
 #include "View/MoveObjectsTool.h"
-
-#include <cassert>
 
 namespace TrenchBroom {
     namespace View {

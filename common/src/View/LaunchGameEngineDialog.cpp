@@ -25,7 +25,6 @@
 #include "View/AutoCompleteTextControl.h"
 #include "View/ELAutoCompleteHelper.h"
 #include "View/BorderLine.h"
-#include "View/CompilationVariables.h"
 #include "View/CurrentGameIndicator.h"
 #include "View/GameEngineDialog.h"
 #include "View/GameEngineProfileListBox.h"
@@ -35,10 +34,8 @@
 
 #include <wx/button.h>
 #include <wx/msgdlg.h>
-#include <wx/panel.h>
 #include <wx/sizer.h>
 #include <wx/stattext.h>
-#include <wx/utils.h>
 
 namespace TrenchBroom {
     namespace View {

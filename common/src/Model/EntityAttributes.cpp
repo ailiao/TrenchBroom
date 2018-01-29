@@ -19,7 +19,6 @@
 
 #include "EntityAttributes.h"
 
-#include "Exceptions.h"
 #include "Assets/EntityDefinition.h"
 
 namespace TrenchBroom {

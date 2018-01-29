@@ -21,19 +21,14 @@
 
 #include "PreferenceManager.h"
 #include "Preferences.h"
-#include "IO/Path.h"
 #include "IO/ResourceUtils.h"
-#include "View/BorderLine.h"
 #include "View/GamesPreferencePane.h"
 #include "View/KeyboardPreferencePane.h"
 #include "View/MousePreferencePane.h"
 #include "View/ViewPreferencePane.h"
-#include "View/ViewConstants.h"
-#include "View/PreferencePane.h"
 #include "View/wxUtils.h"
 
 #include <wx/button.h>
-#include <wx/panel.h>
 #include <wx/sizer.h>
 #include <wx/simplebook.h>
 #include <wx/toolbar.h>

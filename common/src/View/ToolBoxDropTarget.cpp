@@ -21,8 +21,6 @@
 #include "View/DragAndDrop.h"
 #include "View/ToolBoxConnector.h"
 
-#include <cassert>
-
 namespace TrenchBroom {
     namespace View {
         ToolBoxDropTarget::ToolBoxDropTarget(ToolBoxConnector* toolBoxConnector) :

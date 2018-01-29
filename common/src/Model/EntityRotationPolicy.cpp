@@ -19,9 +19,6 @@
 
 #include "EntityRotationPolicy.h"
 
-#include "Macros.h"
-#include "VecMath.h"
-#include "StringUtils.h"
 #include "Model/Entity.h"
 
 namespace TrenchBroom {

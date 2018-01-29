@@ -19,9 +19,6 @@
 
 #include "MousePreferencePane.h"
 
-#include "StringUtils.h"
-#include "PreferenceManager.h"
-#include "Preferences.h"
 #include "View/BorderLine.h"
 #include "View/KeyboardShortcutEditor.h"
 #include "View/KeyboardShortcutEvent.h"
@@ -29,11 +26,6 @@
 
 #include <wx/checkbox.h>
 #include <wx/gbsizer.h>
-#include <wx/sizer.h>
-#include <wx/slider.h>
-#include <wx/stattext.h>
-
-#include <algorithm>
 
 namespace TrenchBroom {
     namespace View {

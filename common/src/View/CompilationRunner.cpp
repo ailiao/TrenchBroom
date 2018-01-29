@@ -20,11 +20,8 @@
 #include "CompilationRunner.h"
 
 #include "CollectionUtils.h"
-#include "Exceptions.h"
 #include "IO/DiskIO.h"
-#include "IO/Path.h"
 #include "Model/CompilationProfile.h"
-#include "Model/CompilationTask.h"
 #include "View/CompilationContext.h"
 #include "View/CompilationVariables.h"
 #include "View/MapDocument.h"

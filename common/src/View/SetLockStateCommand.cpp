@@ -18,7 +18,6 @@
  */
 
 #include "SetLockStateCommand.h"
-#include "Macros.h"
 #include "View/MapDocumentCommandFacade.h"
 
 namespace TrenchBroom {

@@ -19,21 +19,15 @@
 
 #include "EntityLinkRenderer.h"
 
-#include "Macros.h"
 #include "Model/AttributableNode.h"
 #include "Model/CollectMatchingNodesVisitor.h"
 #include "Model/EditorContext.h"
-#include "Model/Entity.h"
-#include "Model/NodeVisitor.h"
-#include "Model/World.h"
 #include "Renderer/Camera.h"
 #include "Renderer/RenderBatch.h"
 #include "Renderer/RenderContext.h"
 #include "Renderer/ShaderManager.h"
 #include "Renderer/Shaders.h"
 #include "View/MapDocument.h"
-
-#include <cassert>
 
 namespace TrenchBroom {
     namespace Renderer {

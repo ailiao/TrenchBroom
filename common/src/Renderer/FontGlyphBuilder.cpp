@@ -21,10 +21,6 @@
 
 #include "Renderer/FontTexture.h"
 
-#include <cassert>
-#include <cstring>
-#include <memory>
-
 namespace TrenchBroom {
     namespace Renderer {
         FontGlyphBuilder::FontGlyphBuilder(const size_t maxAscend, size_t cellSize, const size_t margin, FontTexture& texture) :

@@ -19,8 +19,6 @@
 
 #include "FontDescriptor.h"
 
-#include <cassert>
-
 namespace TrenchBroom {
     namespace Renderer {
         FontDescriptor::FontDescriptor(const IO::Path& path, const size_t size, const unsigned char minChar, const unsigned char maxChar) :

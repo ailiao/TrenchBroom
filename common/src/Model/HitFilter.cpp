@@ -26,8 +26,6 @@
 #include "Model/Group.h"
 #include "Model/HitAdapter.h"
 
-#include <cassert>
-
 namespace TrenchBroom {
     namespace Model {
         class HitFilter::Always : public HitFilter {

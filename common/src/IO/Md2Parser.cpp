@@ -19,19 +19,12 @@
 
 #include "Md2Parser.h"
 
-#include "Exceptions.h"
 #include "Assets/Texture.h"
-#include "Assets/Md2Model.h"
 #include "Assets/Palette.h"
 #include "IO/FileSystem.h"
 #include "IO/ImageLoader.h"
 #include "IO/IOUtils.h"
-#include "IO/MappedFile.h"
-#include "IO/Path.h"
-#include "Renderer/IndexRangeMap.h"
 #include "Renderer/IndexRangeMapBuilder.h"
-#include "Renderer/Vertex.h"
-#include "Renderer/VertexSpec.h"
 
 namespace TrenchBroom {
     namespace IO {

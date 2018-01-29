@@ -19,18 +19,14 @@
 
 #include "AttributeValueWithDoubleQuotationMarksIssueGenerator.h"
 
-#include "StringUtils.h"
 #include "Assets/EntityDefinition.h"
 #include "Model/Brush.h"
 #include "Model/Entity.h"
 #include "Model/Issue.h"
 #include "Model/IssueQuickFix.h"
 #include "Model/MapFacade.h"
-#include "Model/PushSelection.h"
 #include "Model/RemoveEntityAttributesQuickFix.h"
 #include "Model/TransformEntityAttributesQuickFix.h"
-
-#include <cassert>
 
 namespace TrenchBroom {
     namespace Model {

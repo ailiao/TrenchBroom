@@ -27,7 +27,6 @@
 #include "View/LaunchGameEngineDialog.h"
 #include "View/MapDocument.h"
 #include "View/MapFrame.h"
-#include "View/SplitterWindow2.h"
 #include "View/TitledPanel.h"
 #include "View/ViewConstants.h"
 #include "View/wxUtils.h"

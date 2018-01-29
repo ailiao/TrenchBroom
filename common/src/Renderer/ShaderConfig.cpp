@@ -19,8 +19,6 @@
 
 #include "ShaderConfig.h"
 
-#include "CollectionUtils.h"
-
 namespace TrenchBroom {
     namespace Renderer {
         ShaderConfig::ShaderConfig(const String& name, const String& vertexShader, const String& fragmentShader) :

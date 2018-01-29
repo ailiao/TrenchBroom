@@ -34,8 +34,6 @@
 #include <wx/sizer.h>
 #include <wx/wupdlock.h>
 
-#include <cassert>
-
 namespace TrenchBroom {
     namespace View {
         class SmartSpawnflagsEditor::UpdateSpawnflag : public Model::NodeVisitor {

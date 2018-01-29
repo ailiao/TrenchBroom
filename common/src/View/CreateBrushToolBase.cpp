@@ -18,7 +18,6 @@
  */
 
 #include "CreateBrushToolBase.h"
-#include "Polyhedron.h"
 #include "PreferenceManager.h"
 #include "Preferences.h"
 #include "Model/Brush.h"

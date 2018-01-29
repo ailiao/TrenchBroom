@@ -19,14 +19,8 @@
 
 #include "Palette.h"
 
-#include "Exceptions.h"
-#include "StringUtils.h"
 #include "IO/CharArrayReader.h"
 #include "IO/FileSystem.h"
-
-#include <algorithm>
-#include <cstring>
-#include <fstream>
 
 namespace TrenchBroom {
     namespace Assets {

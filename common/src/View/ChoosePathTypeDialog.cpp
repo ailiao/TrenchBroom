@@ -24,7 +24,6 @@
 #include "View/wxUtils.h"
 
 #include <wx/gbsizer.h>
-#include <wx/panel.h>
 #include <wx/radiobut.h>
 #include <wx/stattext.h>
 

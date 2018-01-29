@@ -19,8 +19,6 @@
 
 #include "Selection.h"
 
-#include "CollectionUtils.h"
-
 namespace TrenchBroom {
     namespace View {
         const Model::NodeList& Selection::partiallySelectedNodes() const {

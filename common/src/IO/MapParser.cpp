@@ -18,7 +18,6 @@
  */
 
 #include "MapParser.h"
-#include "Exceptions.h"
 
 namespace TrenchBroom {
     namespace IO {

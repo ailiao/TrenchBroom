@@ -20,14 +20,10 @@
 #include "LinkTargetIssueGenerator.h"
 
 #include "Model/Entity.h"
-#include "Model/EntityAttributes.h"
 #include "Model/Issue.h"
 #include "Model/IssueQuickFix.h"
 #include "Model/MapFacade.h"
 #include "Model/PushSelection.h"
-
-#include <cassert>
-#include <map>
 
 namespace TrenchBroom {
     namespace Model {

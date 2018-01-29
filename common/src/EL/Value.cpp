@@ -23,9 +23,6 @@
 #include "MathUtils.h"
 #include "EL/ELExceptions.h"
 
-#include <algorithm>
-#include <iterator>
-
 namespace TrenchBroom {
     namespace EL {
         ValueHolder::~ValueHolder() {}

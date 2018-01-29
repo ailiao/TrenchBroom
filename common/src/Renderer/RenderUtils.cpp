@@ -20,7 +20,6 @@
 #include "RenderUtils.h"
 
 #include "Assets/Texture.h"
-#include "Renderer/GL.h"
 
 namespace TrenchBroom {
     namespace Renderer {

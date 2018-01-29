@@ -31,10 +31,8 @@
 #include <wx/gbsizer.h>
 #include <wx/menu.h>
 #include <wx/settings.h>
-#include <wx/sizer.h>
 #include <wx/simplebook.h>
 #include <wx/stattext.h>
-#include <wx/textctrl.h>
 
 namespace TrenchBroom {
     namespace View {

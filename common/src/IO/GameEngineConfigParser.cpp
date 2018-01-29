@@ -19,10 +19,6 @@
 
 #include "GameEngineConfigParser.h"
 
-#include "Macros.h"
-#include "CollectionUtils.h"
-#include "Exceptions.h"
-
 namespace TrenchBroom {
     namespace IO {
         GameEngineConfigParser::GameEngineConfigParser(const char* begin, const char* end, const Path& path) :

@@ -19,7 +19,6 @@
 
 #include "CrashDialog.h"
 
-#include "StringUtils.h"
 #include "View/BorderLine.h"
 #include "View/GetVersion.h"
 #include "View/ViewConstants.h"
@@ -27,9 +26,7 @@
 
 #include <wx/button.h>
 #include <wx/gbsizer.h>
-#include <wx/panel.h>
 #include <wx/settings.h>
-#include <wx/sizer.h>
 #include <wx/stattext.h>
 
 

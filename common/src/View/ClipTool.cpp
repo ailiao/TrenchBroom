@@ -19,14 +19,11 @@
 
 #include "ClipTool.h"
 
-#include "CollectionUtils.h"
 #include "PreferenceManager.h"
 #include "Preferences.h"
-#include "Macros.h"
 #include "Model/AssortNodesVisitor.h"
 #include "Model/Brush.h"
 #include "Model/BrushFace.h"
-#include "Model/BrushGeometry.h"
 #include "Model/PickResult.h"
 #include "Model/World.h"
 #include "Renderer/BrushRenderer.h"

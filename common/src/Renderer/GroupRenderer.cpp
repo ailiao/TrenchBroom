@@ -26,7 +26,6 @@
 #include "Renderer/RenderBatch.h"
 #include "Renderer/RenderService.h"
 #include "Renderer/TextAnchor.h"
-#include "Renderer/VertexSpec.h"
 
 namespace TrenchBroom {
     namespace Renderer {

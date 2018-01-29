@@ -25,9 +25,6 @@
 #include "Model/IssueQuickFix.h"
 #include "Model/MapFacade.h"
 
-#include <cassert>
-#include <map>
-
 namespace TrenchBroom {
     namespace Model {
         class NonIntegerPlanePointsIssueGenerator::NonIntegerPlanePointsIssue : public Issue {

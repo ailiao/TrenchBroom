@@ -19,11 +19,7 @@
 
 #include "Sphere.h"
 
-#include "TrenchBroom.h"
-#include "VecMath.h"
 #include "Renderer/RenderUtils.h"
-#include "Renderer/Vertex.h"
-#include "Renderer/VertexSpec.h"
 
 namespace TrenchBroom {
     namespace Renderer {

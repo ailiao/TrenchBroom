@@ -19,10 +19,8 @@
 
 #include "CyclingMapView.h"
 
-#include "Model/Brush.h"
 #include "Renderer/Camera.h"
 #include "View/CommandIds.h"
-#include "View/Grid.h"
 #include "View/MapDocument.h"
 #include "View/MapView2D.h"
 #include "View/MapView3D.h"

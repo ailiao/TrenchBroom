@@ -21,7 +21,6 @@
 
 #include "TrenchBroomApp.h"
 #include "Preferences.h"
-#include "PreferenceManager.h"
 #include "IO/DiskFileSystem.h"
 #include "IO/ResourceUtils.h"
 #include "Model/AttributableNode.h"
@@ -30,7 +29,6 @@
 #include "Model/Entity.h"
 #include "Model/Group.h"
 #include "Model/Layer.h"
-#include "Model/Node.h"
 #include "Model/NodeCollection.h"
 #include "Model/PointFile.h"
 #include "Model/World.h"
@@ -48,15 +46,12 @@
 #include "View/GLContextManager.h"
 #include "View/Grid.h"
 #include "View/InfoPanel.h"
-#include "View/Inspector.h"
 #include "View/LaunchGameEngineDialog.h"
-#include "View/MapDocument.h"
 #include "View/MapFrameDropTarget.h"
 #include "View/Menu.h"
 #include "View/OpenClipboard.h"
 #include "View/RenderView.h"
 #include "View/ReplaceTextureDialog.h"
-#include "View/SplitterWindow2.h"
 #include "View/SwitchableMapViewContainer.h"
 #include "View/VertexTool.h"
 #include "View/ViewUtils.h"
@@ -70,13 +65,8 @@
 #include <wx/persist.h>
 #include <wx/sizer.h>
 #include <wx/timer.h>
-#include <wx/textentry.h>
 #include <wx/choice.h>
 #include <wx/choicdlg.h>
-#include <wx/toolbar.h>
-#include <wx/statusbr.h>
-
-#include <cassert>
 
 namespace TrenchBroom {
     namespace View {

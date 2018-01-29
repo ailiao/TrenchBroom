@@ -21,7 +21,6 @@
 
 #include "Model/EditorContext.h"
 #include "Model/HitAdapter.h"
-#include "Model/HitFilter.h"
 
 namespace TrenchBroom {
     namespace Model {

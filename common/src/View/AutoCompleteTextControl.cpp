@@ -22,7 +22,6 @@
 #include "View/BorderPanel.h"
 #include "View/wxUtils.h"
 
-#include <wx/debug.h>
 #include <wx/log.h>
 #include <wx/settings.h>
 #include <wx/sizer.h>

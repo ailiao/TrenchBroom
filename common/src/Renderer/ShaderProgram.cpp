@@ -19,7 +19,6 @@
 
 #include "ShaderProgram.h"
 
-#include "Exceptions.h"
 #include "Renderer/Shader.h"
 
 namespace TrenchBroom {

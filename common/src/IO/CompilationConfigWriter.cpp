@@ -20,9 +20,6 @@
 #include "CompilationConfigWriter.h"
 
 #include "Model/CompilationConfig.h"
-#include "Model/CompilationProfile.h"
-
-#include <cassert>
 
 namespace TrenchBroom {
     namespace IO {

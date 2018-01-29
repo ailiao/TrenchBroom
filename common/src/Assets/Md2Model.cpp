@@ -18,16 +18,10 @@
  */
 
 #include "Md2Model.h"
-#include "CollectionUtils.h"
 #include "Assets/Texture.h"
 #include "Assets/TextureCollection.h"
-#include "Renderer/VertexArray.h"
-#include "Renderer/IndexRangeMap.h"
 #include "Renderer/TexturedIndexRangeMap.h"
 #include "Renderer/TexturedIndexRangeRenderer.h"
-
-#include <cassert>
-#include <algorithm>
 
 namespace TrenchBroom {
     namespace Assets {

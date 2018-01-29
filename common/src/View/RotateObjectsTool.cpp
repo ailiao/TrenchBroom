@@ -21,7 +21,6 @@
 
 #include "View/Grid.h"
 #include "View/MapDocument.h"
-#include "View/RotateObjectsHandle.h"
 #include "View/RotateObjectsToolPage.h"
 
 namespace TrenchBroom {

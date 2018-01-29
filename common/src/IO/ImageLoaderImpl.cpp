@@ -19,8 +19,6 @@
 
 #include "ImageLoaderImpl.h"
 
-#include "Exceptions.h"
-#include "Macros.h"
 #include "IO/Path.h"
 
 namespace TrenchBroom {

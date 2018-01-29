@@ -22,8 +22,6 @@
 #include "Model/ParaxialTexCoordSystem.h"
 #include "Model/BrushFace.h"
 
-#include <cstddef>
-
 namespace TrenchBroom {
     namespace Model {
         ParallelTexCoordSystemSnapshot::ParallelTexCoordSystemSnapshot(const Vec3& xAxis, const Vec3& yAxis) :

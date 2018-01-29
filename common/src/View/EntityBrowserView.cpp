@@ -19,28 +19,17 @@
 
 #include "EntityBrowserView.h"
 
-#include "Preferences.h"
 #include "Logger.h"
-#include "Assets/EntityDefinition.h"
-#include "Assets/EntityDefinitionManager.h"
 #include "Assets/EntityModel.h"
 #include "Assets/EntityModelManager.h"
-#include "Assets/ModelDefinition.h"
-#include "Renderer/GL.h"
-#include "Renderer/FontDescriptor.h"
 #include "Renderer/FontManager.h"
 #include "Renderer/ShaderManager.h"
 #include "Renderer/Shaders.h"
 #include "Renderer/TextureFont.h"
-#include "Renderer/Transformation.h"
 #include "Renderer/TexturedIndexRangeRenderer.h"
-#include "Renderer/Vertex.h"
-#include "Renderer/VertexArray.h"
 #include "View/MapFrame.h"
 #include "View/ViewUtils.h"
 #include "View/wxUtils.h"
-
-#include <map>
 
 namespace TrenchBroom {
     namespace View {

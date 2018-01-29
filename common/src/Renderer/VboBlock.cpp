@@ -19,8 +19,6 @@
 
 #include "VboBlock.h"
 
-#include <cassert>
-
 namespace TrenchBroom {
     namespace Renderer {
         MapVboBlock::MapVboBlock(VboBlock* block) :

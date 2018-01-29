@@ -26,10 +26,6 @@
 #include "Renderer/RenderUtils.h"
 #include "Renderer/Shaders.h"
 #include "Renderer/ShaderManager.h"
-#include "Renderer/Vbo.h"
-#include "Renderer/VertexSpec.h"
-
-#include <algorithm>
 
 namespace TrenchBroom {
     namespace Renderer {

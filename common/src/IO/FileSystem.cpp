@@ -19,10 +19,6 @@
 
 #include "FileSystem.h"
 
-#include "Exceptions.h"
-
-#include "IO/FileMatcher.h"
-
 namespace TrenchBroom {
     namespace IO {
         FileSystem::FileSystem() {}

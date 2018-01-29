@@ -19,8 +19,6 @@
 
 #include "CompilationConfig.h"
 
-#include "CollectionUtils.h"
-
 namespace TrenchBroom {
     namespace Model {
         CompilationConfig::CompilationConfig() {}

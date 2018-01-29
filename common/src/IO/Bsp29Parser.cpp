@@ -19,13 +19,10 @@
 
 #include "Bsp29Parser.h"
 
-#include "Macros.h"
-#include "ByteBuffer.h"
 #include "Assets/Texture.h"
 #include "Assets/TextureCollection.h"
 #include "Assets/Bsp29Model.h"
 #include "Assets/Palette.h"
-#include "IO/MappedFile.h"
 #include "IO/IOUtils.h"
 #include "IO/IdMipTextureReader.h"
 

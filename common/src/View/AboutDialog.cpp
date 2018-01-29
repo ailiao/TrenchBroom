@@ -19,18 +19,13 @@
 
 #include "AboutDialog.h"
 
-#include "StringUtils.h"
 #include "View/AppInfoPanel.h"
 #include "View/wxUtils.h"
 
 #include <wx/button.h>
-#include <wx/panel.h>
 #include <wx/sizer.h>
-#include <wx/statline.h>
 #include <wx/stattext.h>
 #include <wx/textctrl.h>
-
-#include <iostream>
 
 namespace TrenchBroom {
     namespace View {

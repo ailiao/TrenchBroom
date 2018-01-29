@@ -19,7 +19,6 @@
 
 #include "BrushContentTypeEvaluator.h"
 
-#include "Macros.h"
 #include "Model/AttributableNode.h"
 #include "Model/Brush.h"
 #include "Model/BrushFace.h"

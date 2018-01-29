@@ -19,12 +19,8 @@
 
 #include "FileLogger.h"
 
-#include "Ensure.h"
 #include "IO/DiskIO.h"
-#include "IO/Path.h"
 #include "IO/SystemPaths.h"
-
-#include <cassert>
 
 #include <wx/string.h>
 

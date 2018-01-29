@@ -22,7 +22,6 @@
 #include "Model/BrushFace.h"
 #include "Model/Brush.h"
 #include "Model/HitAdapter.h"
-#include "View/InputState.h"
 #include "View/MapDocument.h"
 
 namespace TrenchBroom {

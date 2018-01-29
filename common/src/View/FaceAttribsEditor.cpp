@@ -21,12 +21,10 @@
 
 #include "Assets/AssetTypes.h"
 #include "Assets/Texture.h"
-#include "IO/Path.h"
 #include "IO/ResourceUtils.h"
 #include "Model/BrushFace.h"
 #include "Model/ChangeBrushFaceAttributesRequest.h"
 #include "Model/Game.h"
-#include "Model/GameConfig.h"
 #include "View/BorderLine.h"
 #include "View/FlagChangedCommand.h"
 #include "View/FlagsPopupEditor.h"
@@ -37,10 +35,7 @@
 #include "View/UVEditor.h"
 #include "View/ViewUtils.h"
 
-#include <wx/bitmap.h>
-#include <wx/button.h>
 #include <wx/gbsizer.h>
-#include <wx/sizer.h>
 #include <wx/stattext.h>
 #include <wx/wupdlock.h>
 

@@ -20,8 +20,6 @@
 #include "CameraTool2D.h"
 
 #include "Preferences.h"
-#include "PreferenceManager.h"
-#include "View/InputState.h"
 #include "Renderer/OrthographicCamera.h"
 
 namespace TrenchBroom {

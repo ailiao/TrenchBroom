@@ -22,8 +22,6 @@
 #include <wx/dcclient.h>
 #include <wx/log.h>
 
-#include <algorithm>
-
 namespace TrenchBroom {
     namespace View {
         BitmapToggleButton::BitmapToggleButton(wxWindow* parent, wxWindowID windowId, const wxBitmap& upBitmap, const wxBitmap& downBitmap) :

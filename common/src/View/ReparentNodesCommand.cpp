@@ -19,11 +19,8 @@
 
 #include "ReparentNodesCommand.h"
 
-#include "CollectionUtils.h"
 #include "Model/ModelUtils.h"
 #include "View/MapDocumentCommandFacade.h"
-
-#include <cassert>
 
 namespace TrenchBroom {
     namespace View {

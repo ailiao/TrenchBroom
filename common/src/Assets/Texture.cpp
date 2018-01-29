@@ -21,8 +21,6 @@
 #include "Assets/ImageUtils.h"
 #include "Assets/TextureCollection.h"
 
-#include <cassert>
-
 namespace TrenchBroom {
     namespace Assets {
         void setMipBufferSize(Assets::TextureBuffer::List& buffers, const size_t width, const size_t height) {

@@ -20,13 +20,9 @@
 #include "UVOffsetTool.h"
 
 #include "Model/BrushFace.h"
-#include "Model/BrushGeometry.h"
 #include "Model/ChangeBrushFaceAttributesRequest.h"
-#include "View/InputState.h"
 #include "View/MapDocument.h"
 #include "View/UVView.h"
-
-#include <cassert>
 
 namespace TrenchBroom {
     namespace View {

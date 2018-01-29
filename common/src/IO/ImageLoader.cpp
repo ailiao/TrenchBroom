@@ -19,7 +19,6 @@
 
 #include "ImageLoader.h"
 
-#include "Exceptions.h"
 #include "IO/Path.h"
 #include "IO/ImageLoaderImpl.h"
 

@@ -20,17 +20,12 @@
 #include "BrushRenderer.h"
 
 #include "Preferences.h"
-#include "PreferenceManager.h"
 #include "Model/Brush.h"
-#include "Model/BrushFace.h"
-#include "Model/BrushGeometry.h"
 #include "Model/EditorContext.h"
 #include "Model/NodeVisitor.h"
 #include "Renderer/IndexArrayMapBuilder.h"
 #include "Renderer/RenderContext.h"
-#include "Renderer/RenderUtils.h"
 #include "Renderer/TexturedIndexArrayBuilder.h"
-#include "Renderer/VertexSpec.h"
 
 namespace TrenchBroom {
     namespace Renderer {

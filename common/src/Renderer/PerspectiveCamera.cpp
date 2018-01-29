@@ -19,13 +19,11 @@
 
 #include "PerspectiveCamera.h"
 
-#include "Color.h"
 #include "Renderer/RenderContext.h"
 #include "Renderer/Shaders.h"
 #include "Renderer/ShaderManager.h"
 #include "Renderer/Vbo.h"
 #include "Renderer/VertexArray.h"
-#include "Renderer/VertexSpec.h"
 
 namespace TrenchBroom {
     namespace Renderer {

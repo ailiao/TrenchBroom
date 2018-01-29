@@ -30,7 +30,6 @@
 #include "View/GLContextManager.h"
 #include "View/Inspector.h"
 #include "View/MapDocument.h"
-#include "View/MapViewContainer.h"
 #include "View/MapViewBar.h"
 #include "View/MapViewToolBox.h"
 

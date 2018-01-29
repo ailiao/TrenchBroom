@@ -21,8 +21,6 @@
 
 #include "Model/BrushContentTypeEvaluator.h"
 
-#include <cassert>
-
 namespace TrenchBroom {
     namespace Model {
         const BrushContentType::List BrushContentType::EmptyList = BrushContentType::List();

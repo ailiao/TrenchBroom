@@ -18,11 +18,6 @@
  */
 
 #include "Action.h"
-#include "ActionContext.h"
-
-#include "PreferenceManager.h"
-
-#include "Exceptions.h"
 
 namespace TrenchBroom {
     namespace View {

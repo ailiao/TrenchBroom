@@ -19,11 +19,7 @@
 
 #include "IdPakFileSystem.h"
 
-#include "CollectionUtils.h"
-#include "IO/DiskFileSystem.h"
 #include "IO/IOUtils.h"
-
-#include <cassert>
 
 namespace TrenchBroom {
     namespace IO {

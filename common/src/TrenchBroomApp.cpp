@@ -23,14 +23,11 @@
 #include <fstream>
 
 #include "GLInit.h"
-#include "Macros.h"
 #include "RecoverableExceptions.h"
 #include "TrenchBroomAppTraits.h"
 #include "TrenchBroomStackWalker.h"
-#include "IO/Path.h"
 #include "IO/SystemPaths.h"
 #include "Model/GameFactory.h"
-#include "Model/MapFormat.h"
 #include "View/AboutDialog.h"
 #include "View/ActionManager.h"
 #include "View/CommandIds.h"
@@ -44,12 +41,8 @@
 #include "View/GetVersion.h"
 #include "View/MapViewBase.h"
 
-#include <wx/choicdlg.h>
 #include <wx/cmdline.h>
 #include <wx/filedlg.h>
-#include <wx/generic/helpext.h>
-#include <wx/platinfo.h>
-#include <wx/utils.h>
 #include <wx/stdpaths.h>
 #include <wx/msgdlg.h>
 #include <wx/time.h>

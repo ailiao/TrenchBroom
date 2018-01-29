@@ -19,15 +19,11 @@
 
 #include "TextureBrowser.h"
 
-#include "PreferenceManager.h"
-#include "Preferences.h"
-#include "Assets/TextureManager.h"
 #include "View/ViewConstants.h"
 #include "View/MapDocument.h"
 #include "View/TextureSelectedCommand.h"
 
 #include <wx/choice.h>
-#include <wx/event.h>
 #include <wx/tglbtn.h>
 #include <wx/sizer.h>
 #include <wx/srchctrl.h>

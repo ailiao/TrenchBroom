@@ -20,7 +20,6 @@
 #include "WadFileSystem.h"
 
 #include "IO/CharArrayReader.h"
-#include "IO/DiskIO.h"
 
 namespace TrenchBroom {
     namespace IO {

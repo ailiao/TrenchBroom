@@ -21,8 +21,6 @@
 
 #include "Model/BrushFace.h"
 #include "Model/ChangeBrushFaceAttributesRequest.h"
-#include "Model/PickResult.h"
-#include "View/InputState.h"
 #include "View/MapDocument.h"
 #include "View/UVViewHelper.h"
 

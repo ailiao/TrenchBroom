@@ -18,7 +18,6 @@
  */
 
 #include "ParserStatus.h"
-#include "Exceptions.h"
 
 namespace TrenchBroom {
     namespace IO {

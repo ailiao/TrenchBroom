@@ -29,7 +29,6 @@
 #include "Model/FindLayerVisitor.h"
 #include "Model/IntersectNodeWithRayVisitor.h"
 #include "Model/IssueGenerator.h"
-#include "Model/NodeVisitor.h"
 #include "Model/PickResult.h"
 
 namespace TrenchBroom {

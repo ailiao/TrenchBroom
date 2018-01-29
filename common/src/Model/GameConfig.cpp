@@ -19,11 +19,8 @@
 
 #include "GameConfig.h"
 
-#include "CollectionUtils.h"
 #include "IO/DiskFileSystem.h"
 #include "IO/SystemPaths.h"
-
-#include <cassert>
 
 namespace TrenchBroom {
     namespace Model {

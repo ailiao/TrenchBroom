@@ -19,10 +19,7 @@
 
 #include "MapDocumentCommandFacade.h"
 
-#include "CollectionUtils.h"
 #include "Preferences.h"
-#include "PreferenceManager.h"
-#include "Assets/EntityDefinitionFileSpec.h"
 #include "Assets/TextureManager.h"
 #include "Model/Brush.h"
 #include "Model/BrushFace.h"
@@ -32,14 +29,11 @@
 #include "Model/CollectSelectableBrushFacesVisitor.h"
 #include "Model/CollectSelectableNodesVisitor.h"
 #include "Model/EditorContext.h"
-#include "Model/Entity.h"
 #include "Model/Game.h"
-#include "Model/Group.h"
 #include "Model/Issue.h"
 #include "Model/ModelUtils.h"
 #include "Model/Snapshot.h"
 #include "Model/TransformObjectVisitor.h"
-#include "Model/World.h"
 #include "View/Selection.h"
 
 namespace TrenchBroom {

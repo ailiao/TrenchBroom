@@ -19,23 +19,16 @@
 
 #include "RotateObjectsHandle.h"
 
-#include "Macros.h"
 #include "PreferenceManager.h"
 #include "Preferences.h"
 #include "Renderer/Camera.h"
-#include "Renderer/Circle.h"
-#include "Renderer/Renderable.h"
 #include "Renderer/RenderBatch.h"
 #include "Renderer/RenderContext.h"
 #include "Renderer/RenderService.h"
 #include "Renderer/RenderUtils.h"
 #include "Renderer/Shaders.h"
 #include "Renderer/ShaderManager.h"
-#include "Renderer/Transformation.h"
-#include "Renderer/VertexArray.h"
 #include "View/InputState.h"
-
-#include <cassert>
 
 namespace TrenchBroom {
     namespace View {

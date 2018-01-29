@@ -19,7 +19,6 @@
 
 #include "GameConfigParser.h"
 
-#include "Exceptions.h"
 #include "Model/BrushContentTypeEvaluator.h"
 
 namespace TrenchBroom {

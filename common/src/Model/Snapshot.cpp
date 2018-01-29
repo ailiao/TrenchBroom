@@ -19,7 +19,6 @@
 
 #include "Snapshot.h"
 
-#include "CollectionUtils.h"
 #include "Model/BrushFaceSnapshot.h"
 #include "Model/Node.h"
 #include "Model/NodeSnapshot.h"

@@ -20,16 +20,13 @@
 #include "UVViewHelper.h"
 
 #include "PreferenceManager.h"
-#include "Preferences.h"
 #include "Assets/Texture.h"
 #include "Model/BrushFace.h"
-#include "Model/BrushGeometry.h"
 #include "Model/PickResult.h"
 #include "Renderer/OrthographicCamera.h"
 #include "Renderer/RenderContext.h"
 #include "Renderer/ShaderManager.h"
 #include "Renderer/VertexArray.h"
-#include "Renderer/VertexSpec.h"
 #include "View/UVView.h"
 
 namespace TrenchBroom {
